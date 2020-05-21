@@ -10,18 +10,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Let’s make the web multilingual."
-msgstr "Let’s make the web multilingual."
+msgstr ""
 
 msgid "We connect developers and translators around the globe "
 "on Lingohub for a fantastic localization experience."
 msgstr ""
-"We connect developers and translators around the globe on Lingohub for a "
-"fantastic localization experience."
 
 msgid "Welcome back, %1$s! Your last visit was on %2$s"
-msgstr "Welcome back, %1$s! Your last visit was on %2$s"
+msgstr ""
 
 msgid "%d page read."
 msgid_plural "%d pages read."
-msgstr[0] "%d page read."
-msgstr[1] "%d pages read."
+msgstr ""
