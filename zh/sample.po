@@ -15,24 +15,24 @@ msgstr ""
 
 #: pages/index.tsx:8
 msgid "Create Next App"
-msgstr ""
+msgstr "创建下一个应用程序"
 
 #: pages/index.tsx:34
 msgid "Get started by editing <0>pages/index.js</0>"
-msgstr ""
+msgstr "开始编辑<0>页/索引。js</0>"
 
 #: pages/index.tsx:21
 msgid "I have"
-msgstr ""
+msgstr "我有"
 
 #: pages/index.tsx:42
 msgid "Powered by <0/>"
-msgstr ""
+msgstr "技术支持<0/>"
 
 #: pages/index.tsx:28
 msgid "Welcome to <0>Next.js!</0>"
-msgstr ""
+msgstr "欢迎来到<0>下一个。js！</0>"
 
 #: pages/index.tsx:22
 msgid "{count, plural, =0 {no books} one {# book} other {# books}}"
-msgstr ""
+msgstr "{# books}}{# book}{count, plural, =0 {no books}一个其他"
